@@ -1,0 +1,74 @@
+.container{
+    position: relative;
+    text-align: center;
+    background:url("http://i.imgur.com/anw2vFI.jpg");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    background-position: center;
+    width:auto;
+    }
+.img {
+    width:9%;
+    text-align:center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    position: absolute;
+    top:40px;
+    left:70%;
+    }
+.title{
+    font-size: 100px;
+    border:solid;
+    color:white;
+    }
+.slogan{
+    font-size:40px;
+    position: absolute;
+    top:60%;
+    left:50%;
+    }
+.container2{
+    position: relative;
+    text-align: center;
+    
+    }
+.header{
+    font-size:30px;
+    color:lightblue;
+    }
+.story{
+    margin:20px;
+    color:lightblue;
+    }
+.container3{
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    color:lightblue;
+    }
+.lore{
+    border:solid;
+    padding:50px;
+    margin:20px;
+    }
+.video{
+    border:solid;
+    padding:50px;
+    margin:20px;
+    }
+.lore{
+    background-color:black;
+    }
+.video{
+    background-color:black;
+    }
+a{
+    color:lightblue;
+    }    
+body{
+    background-color:grey;
+    background:url("https://d2v9y0dukr6mq2.cloudfront.net/video/thumbnail/itCjTBE/dark-red-tech-abstract-vertical-stripes-motion-background-video-animation-ultra-hd-4k-3840x2160_bsegc6c7l_thumbnail-full01.png");
+    padding:15px;
+    }
+    
